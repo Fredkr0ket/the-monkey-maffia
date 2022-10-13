@@ -1,0 +1,12 @@
+[submodule "de-nek-kletser"]
+	path = de-nek-kletser
+	url = https://github.com/Fredkr0ket/de-nek-kletser.git
+[submodule "website"]
+	path = website
+	url = https://github.com/Fredkr0ket/website.git
+[submodule "monkey-wars"]
+	path = monkey-wars
+	url = https://github.com/Fredkr0ket/monkey-wars.git
+[submodule "jeff-in-da-hood"]
+	path = jeff-in-da-hood
+	url = https://github.com/Fredkr0ket/jeff-in-da-hood.git
